@@ -1,1 +1,2 @@
-console.log('Ispis u konzoli')
+console.log('Ispis u konzoli');
+alert("Hello developer");
